@@ -1,0 +1,15 @@
+[
+  {
+    "section": "Top News",
+    "feeds": [
+      "https://feeds.reuters.com/reuters/USTopNews",
+      "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    ]
+  },
+  {
+    "section": "World",
+    "feeds": [
+      "http://feeds.bbci.co.uk/news/world/rss.xml"
+    ]
+  }
+]
